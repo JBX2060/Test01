@@ -73,7 +73,7 @@
 		</li>
 						
 			<li class="rightside"  data-skip-responsive="true">
-			<a href="./ucp.php?mode=logout&amp;sid=39f87bbfe131b9429a3327b9e69b5cc8" title="Logout" accesskey="x" role="menuitem">
+			<a href="./ucp.php?mode=logout&amp;sid=c9289838e83742245cd20165ad4f4cd9" title="Logout" accesskey="x" role="menuitem">
 				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Logout</span>
 			</a>
 		</li>
